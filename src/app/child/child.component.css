@@ -1,0 +1,9 @@
+.child-border{
+  border: 1px solid green;
+  padding:20px;
+}
+
+h1{
+    background-color: red;
+    color:white
+}
